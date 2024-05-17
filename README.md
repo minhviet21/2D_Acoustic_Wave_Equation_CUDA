@@ -1,0 +1,1 @@
+## This is the source code of 2D Acoustic Wave Equation CUDA Project of the course IT4130E at HUST.
